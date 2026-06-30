@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub 토론
+    url: https://github.com/MyoungSoo-Choi/MCP_TEST/discussions
+    about: 일반적인 질문은 토론 섹션을 이용해주세요
+  - name: 문서
+    url: https://github.com/MyoungSoo-Choi/MCP_TEST/wiki
+    about: 프로젝트 문서 및 가이드
